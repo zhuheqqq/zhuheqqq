@@ -15,8 +15,11 @@
 ### :zap: Github Stats
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=zhuheqqq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="zhuheqqq's Github Stats" width="60%">
-  
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuheqqq&theme=tokyonight" width="37%" alt="zhuheqqq's Top Languages">
+
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhuheqqq&show_icons=true&hide_border=true" />
+<img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuheqqq&theme=dark&layout=compact" />
 
 
 <br>

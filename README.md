@@ -14,10 +14,9 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=zhuheqqq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="zhuheqqq's Github Stats" width="40%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=zhuheqqq&show_icons=true&&hide_border=true" alt="zhuheqqq's Github Stats" width="50%">
 
-
-<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuheqqq&theme=dark&layout=compact" />
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuheqqq&theme=dark&layout=compact" />
 
 
 <br>

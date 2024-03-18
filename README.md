@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there , I'm zhuheqqq 👋
 
-<!--
-**zhuheqqq/zhuheqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Xiyou Linux group
+- 🌱 I’m currently learning Go & C++ & Linux
+- 📫 How to reach me: zhuheqin55@gmail.com
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 大家可以查看我的技术博客 https://blog.csdn.net/weixin_74111699?spm=1000.2115.3001.5343
+- 
+
+<br>
+
+
+
+
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=zhuheqqq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="gueFDF's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuheqqq&theme=tokyonight" width="37%" alt="zhuheqqq's Top Languages">
+
+
+<br>
+

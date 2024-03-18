@@ -1,5 +1,7 @@
 ### Hi there , I'm zhuheqqq 👋
 
+![Visitor Count](https://profile-counter.glitch.me/zhuheqqq/count.svg)
+
 
 - 🔭 I’m currently working on Xiyou Linux group
 - 🌱 I’m currently learning Go & C++ & Linux

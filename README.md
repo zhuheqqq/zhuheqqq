@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Xiyou Linux group
 - 🌱 I’m currently learning Go & C++ & Linux & OS
 - 📫 How to reach me: zhuheqin55@gmail.com
-- 💬 大家可以查看我的技术博客 https://blog.csdn.net/weixin_74111699?spm=1000.2115.3001.5343
-- 还有一些笔记散落在仓库blogs-notes https://github.com/zhuheqqq/blogs-notes
+- 💬 You can check out my technology blog: https://blog.csdn.net/weixin_74111699?spm=1000.2115.3001.5343
+- There are also some notes scattered in the warehouse blogs-notes: https://github.com/zhuheqqq/blogs-notes
 
 
 
